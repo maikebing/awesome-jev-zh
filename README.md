@@ -834,6 +834,12 @@ npx skills add typesafe-ai/skills --skill typesafe-ai  # 其他 Agent
 
 | [Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem](https://arxiv.org/abs/2609.30216) | 首个基于 2,170 个公开 GitHub Jev 项目的应用生态综述与分析，记录早期快速增长、应用领域和决策用途分布；论文为 arXiv 预印本。 |
 
+### 中文实用文章
+
+| 文章 | 说明 |
+| :-- | :-- |
+| [Jev 不能做什么？开发前必须理解的五个限制](https://www.jevaiplayground.com/zh/blog/jev-limitations) | 五类能力边界与上线前验收清单，逐项链接官方资料，并明确说明建议不是实测基准 |
+
 ### 日文
 
 | 文章 | 说明 |
@@ -841,7 +847,7 @@ npx skills add typesafe-ai/skills --skill typesafe-ai  # 其他 Agent
 | [TypeSafeのJevを正しく驚く、それってLLMでできませんか？](https://zenn.dev/nwn/articles/824026c76116e0) | Jev 是什么、不是什么，边界画得很准 |
 | [jev 同士に五目並べで対戦させた](https://zenn.dev/mizchi/articles/jev-plays-gomoku) | mizchi 让两个 Jev 下五子棋，带源码和耗时日志 |
 
-> 中文一手内容目前几乎是空白，[docs/](docs/) 就是为了补这一块。写了中文实践文章的话，欢迎提 PR 进来。
+> 中文实用内容目前仍不多，[docs/](docs/) 用于补充代码与上手细节。欢迎提交有来源的中文实践文章。
 
 ---
 
