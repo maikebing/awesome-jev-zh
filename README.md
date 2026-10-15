@@ -611,6 +611,7 @@ npx skills add typesafe-ai/skills --skill typesafe-ai  # 其他 Agent
 | [**asfarsadewa/human-compiler**](https://github.com/asfarsadewa/human-compiler) | ![](https://badgen.net/github/stars/asfarsadewa/human-compiler) | 粘贴职场废话，Jev 给「被动攻击 / 紧急感 / 信息密度」打分，代码按 rustc 风格报诊断。在线：[human-compiler.asfarlab.fun](https://human-compiler.asfarlab.fun) |
 | [**sunyasheng/JevDeepResearch**](https://github.com/sunyasheng/JevDeepResearch) | ![](https://badgen.net/github/stars/sunyasheng/JevDeepResearch) | 实验性深度研究：GPT 决定研究方向，Jev 用 Choice 定位证据、Noul 判断是否存在，并行处理文档区域后返回原文；提供 Pi-Serini 接入、Jev-20/40/60 实验及复现命令 |
 | [**classifier.dev**](https://classifier.dev/) | — | **托管的零门槛分类 API，底座就是 Jev 1.13**（返回体里写着 `model: jev-1.13.0`）。不用注册、不用 key、不用绑卡，一条 curl 就能跑；批量一次 1,000 条，实测 20ms/条。代价是只剩分类一个原语、选项不能带描述、Jev 挂了会静默回退到 OpenRouter 上的 LLM 链（看 `modelsUsed` 字段才知道）。对比见 [体验渠道](#-体验渠道) |
+| [**Nisaka520/JevBystander**](https://github.com/Nisaka520/JevBystander) | ![](https://badgen.net/github/stars/Nisaka520/JevBystander) | 安卓无障碍应用：读取当前微信聊天窗口已显示的文字，连同本地联系人关系背景提交给 Jev API，返回意图、情绪、紧急程度和建议姿态，以固定 3 条 Toast 展示；不生成回复、不注入输入框、不自动发送、不截屏。包含单元测试；需用户自行配置 API Key |
 
 ---
 
